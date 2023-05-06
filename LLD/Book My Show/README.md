@@ -6,7 +6,7 @@ BookMyShow is an Indian online ticketing service for cinemas / movies, events, a
 Requirement Gathering:
 =====================================
 
-Rough Flow of the Requirements:
+**Rough Flow of the Requirements:**
 
 1. User selects his preferred city and list of the movies/events is displayed to him which are showing  in the cinemas of that city with their availability.
 2. User can browse through the movies and select/book  a movie in a cinema hall by making the payment.
