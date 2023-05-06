@@ -1,4 +1,5 @@
 This Project Contains the Source Code for BOOK MY SHOW Application
+============================================================================
 
 BookMyShow is an Indian online ticketing service for cinemas / movies, events, and sports
 
