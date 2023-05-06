@@ -33,7 +33,7 @@ We will treat Customer as our user for now:
 Use Cases:
 =====================
 
-User ( Customer)
+**User ( Customer)**
 1. Should be able to regsiter and login.
 2. Should be able to browse movies on the basis of city,language of movie,title of movie,show time,cinema hall, release date, location of cinema hall in the city, movie rating,genre ( Action,
 drama,Animation, 2D,3D).
@@ -47,14 +47,14 @@ drama,Animation, 2D,3D).
 9. Should be able to view his bookings.
 
 
-Admin:
+**Admin:**
 1. Can add/Update/delete the Cinemas, movies, movie timings, city
 2. Can Block Some of the seats 
 3. Add some rules for a movie/events
 4. Do KYC of Cinemas
 
 
-System:
+**System:**
 1. Should be able to accept payment and book the ticket
 2. Send Booking confirmation and send ticket to email/Whatsapp
 3. Accept user request of cancellation and send the refund.
