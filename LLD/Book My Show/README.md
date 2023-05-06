@@ -8,19 +8,18 @@ Requirement Gathering:
 
 Rough Flow of the Requirements:
 
-
-3. User selects his preferred city and list of the movies/events is displayed to him which are showing  in the cinemas of that city with their availability.
-4. User can browse through the movies and select/book  a movie in a cinema hall by making the payment.
-5. User should be able to browse movies on the basis of city,language of movie,title of movie,show time,cinema hall, release date, location of cinema hall in the city, movie rating,genre ( Action,
+1. User selects his preferred city and list of the movies/events is displayed to him which are showing  in the cinemas of that city with their availability.
+2. User can browse through the movies and select/book  a movie in a cinema hall by making the payment.
+3. User should be able to browse movies on the basis of city,language of movie,title of movie,show time,cinema hall, release date, location of cinema hall in the city, movie rating,genre ( Action,
 drama,Animation, 2D,3D).
-6. Each movie can be shown in multiple cinemas.
-7. Each cinema hall can have multiple show/movie timings. 
-8. Customer should be able to view the seating arrangement, available seats and book the seats ( one or more accordingly).
-9. System should be able to accept the payment and the customer should be able to get the confirmation of payment with the booked tickets.
-10. The system should not allow the multiple booking for same seat.
-11. Customer can registers on the app/website of Book My Show. 
-12. He can login to the app/website.
-13. User Should be able to cancel the tickets.
+4. Each movie can be shown in multiple cinemas.
+5. Each cinema hall can have multiple show/movie timings. 
+6. Customer should be able to view the seating arrangement, available seats and book the seats ( one or more accordingly).
+7. System should be able to accept the payment and the customer should be able to get the confirmation of payment with the booked tickets.
+8. The system should not allow the multiple booking for same seat.
+9. Customer can registers on the app/website of Book My Show. 
+10. He can login to the app/website.
+11. User Should be able to cancel the tickets.
 
 
 Here are the Actors Involved:
