@@ -33,6 +33,13 @@ Note: dead status is put in each node.( isAlive)
 
 # Approach 3:
 Here we avoided the use of Tree and used a map for showing the parent child relationship.
+Ex: King -> <A, B, C> 
+    A    -> <M>
+    B    -> <Alice>
+unordered_map<string,vector<string>>
+unordered_map is used as access to key is O(1)
+child are added in the order they take birth .
+
 
 For dead person status,we took a set . It stores name of dead persons.
 We can use another map also for keeping dead person status. 
