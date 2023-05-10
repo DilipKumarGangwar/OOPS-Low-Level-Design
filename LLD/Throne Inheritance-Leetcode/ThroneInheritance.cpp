@@ -1,3 +1,6 @@
+//https://leetcode.com/problems/throne-inheritance/description/
+//Letcode : 1600 ( Asked in a Product based Company)
+
 //Approach 1
 //Code works, but Time Limit Exceeded
 // Reason: Searching takes time.as we always start searching from root Node.
