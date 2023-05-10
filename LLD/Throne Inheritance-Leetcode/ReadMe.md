@@ -9,6 +9,7 @@ The order of inheritance is basically the DFS or preorder traversal of the Tree 
 
 # Approach
 3 Approaches are shown in below codes
+
 Approach 1: 
 
 Uses Tree data structure to store the parent and child relationships.
