@@ -1,3 +1,6 @@
+# https://leetcode.com/problems/throne-inheritance/description/
+# Letcode : 1600 ( Asked in a Product based Company)
+
 # Intuition
 As problem describes about the family and hierarchy, so hierarchical data structure can be used. Tree data structure is good to use.
 Tree : can be used to store the parent and child relationships.
