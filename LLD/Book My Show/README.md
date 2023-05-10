@@ -69,3 +69,18 @@ So Our Core Flow can be:
 ================================
 
 City Displayed ->  Choose Cinema -> Choose Movie and timings -> seat booking -> Make Payment -> Get the Confirmation of ticket Booking
+
+
+Classes Identified:
+==========================
+1. User/Customer
+2. Movie
+3. City
+4. Theater/Cinema
+5. Cinema hall
+6. Show
+7. Seat
+8. Booking
+9. Ticket
+10. Payment
+11. Notification
