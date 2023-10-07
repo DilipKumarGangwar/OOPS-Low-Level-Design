@@ -1,0 +1,5 @@
+Manager is an employee of XYZ limited corporation.  - Inheritance => Manager is a Employee
+Manager uses a swipe card to enter XYZ premises.    => Manager uses swipe card, both can exist independently , association
+Manager has workers who work under him.              => Manager has workers, aggeration
+Manager has the responsibility of ensuring that the project is successful.  => tight => manager success depends on project , project sucess depends on manager => composition
+Manager's salary will be judged based on project success. => composition

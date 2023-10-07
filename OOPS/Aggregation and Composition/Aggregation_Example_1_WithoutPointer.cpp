@@ -44,8 +44,7 @@ Person::Person(string name)
 Person::~Person()
 {
     cout<<"Deleting Person Object"<<endl;
-    //we have to explicitly delete Address Object
-    //delete(m_address);  Wrong as m_address is not a pointer type
+   
 }
 void Person::setAddress(Address &address)
 {
@@ -74,7 +73,7 @@ int main()
     //get Person Details
     person->getPersonDetails();
 
-    delete(person);
+   // delete person;
 
     return 0;
 }

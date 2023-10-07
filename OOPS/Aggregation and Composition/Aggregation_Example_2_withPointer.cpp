@@ -41,10 +41,7 @@ Address:: Address(int street_no,string city, string state)
     m_state = state;
 }
 
-Address::~Address()
-{
-    cout<<"Deleting Address"<<endl;
-}
+
 
 void Address::getAddress()
 {
@@ -68,8 +65,8 @@ int main()
     person->getPersonDetails();
 
     //Deleting Person 
-    delete(person);
-
+    delete person;
+    delete address;
     return 0;
 }
 
