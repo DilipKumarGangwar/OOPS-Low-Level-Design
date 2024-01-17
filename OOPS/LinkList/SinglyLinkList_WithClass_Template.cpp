@@ -102,11 +102,12 @@ class MyList
 
 int main()
 {
+    // MyList<float> a;
     MyList<float> a{7,8};
-  //  a.push_front(1);
+ 
     a.push_back(2);
-    a.push_front(3);
     a.push_back(4);
+     a.push_front(3);
     a.print();
     
     return 0;
